@@ -59,7 +59,7 @@
 .emoji-picker,
 .popout,
 .option-popout {
-    animation: fadeScreen 0.5s;
+    animation: fadeScreen 0.1s;
 }
 
 /*Hearts*/
@@ -1203,8 +1203,8 @@ span:active .modal:hover {
 }
 
 .callout-backdrop {
-  -webkit-transition-delay: 5s;
-          transition-delay: 5s;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s;
 }
 
 .callout-backdrop {
